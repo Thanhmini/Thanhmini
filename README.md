@@ -3,12 +3,13 @@
 # Hi there, I'm Nguyen Xuan Thanh 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Game+Enthusiast;Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT+Engineer;Embedded+Systems;Smart+Devices+Lover;Phenikaa+Student&font=Fira+Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
-I'm a final-year student passionate about building web applications and educational games.
+I'm a final-year student majoring in **Internet of Things (IoT)**. 
+I love building smart devices and connecting the physical world to the internet.
 
-[Website]([https://your-website.com](https://www.facebook.com/xuannguyen.thanh.35728466))• [Email](mailto:xuannguyenthanh32@gmail.com)
+[Website](https://www.facebook.com/xuannguyen.thanh.35728466) • [Email](mailto:xuannguyenthanh32@gmail.com)
 
 </div>
 
@@ -18,12 +19,16 @@ I'm a final-year student passionate about building web applications and educatio
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+<img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/esp32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
 </div>
 
@@ -49,5 +54,5 @@ I'm a final-year student passionate about building web applications and educatio
 
 <div align="center">
   <br>
-  <i>Let's connect and build something amazing together!</i>
+  <i>Connecting everything, everywhere!</i>
 </div>
