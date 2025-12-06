@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Tên của bạn] 👋
+# Hi there, I'm Nguyen Xuan Thanh 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Game+Enthusiast;Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 I'm a final-year student passionate about building web applications and educational games.
 
-[Website](https://your-website.com) • [Linkedin](https://linkedin.com/in/your-profile) • [Email](mailto:your-email@gmail.com)
+[Website]([https://your-website.com](https://www.facebook.com/xuannguyen.thanh.35728466))• [Email](mailto:xuannguyenthanh32@gmail.com)
 
 </div>
 
