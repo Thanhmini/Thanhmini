@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT+Engineer;Embedded+Systems;Smart+Devices+Lover;Phenikaa+Student&font=Fira+Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
-I'm a final-year student majoring in *embedded programming**. 
+I'm a final-year student majoring in **embedded programming**. 
 I love building smart devices and connecting the physical world to the internet.
 
 [Website](https://www.facebook.com/xuannguyen.thanh.35728466) • [Email](mailto:xuannguyenthanh32@gmail.com)
